@@ -1,0 +1,6 @@
+Useful Links:
+https://firebase.google.com/docs/database/web/start
+https://firebase.google.com/docs/database/rest/start
+https://www.google.com/analytics/data-studio/
+https://cloud.google.com/bigquery/docs/
+

@@ -1,0 +1,164 @@
+{
+  "project_info": {
+    "project_number": "79630518081",
+    "firebase_url": "https://simprints-dev.firebaseio.com",
+    "project_id": "simprints-dev",
+    "storage_bucket": "simprints-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79630518081:android:868e99ed20a4f9a5",
+        "android_client_info": {
+          "package_name": "com.simprints.id"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79630518081-le1grgigbini6u531k3l91kmsokm7723.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "79630518081-25ob6nh4d617ej32mjnaov3iuhdtp49n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9FACBcpmhWkLZ5OdWFjFX0lbsJwW43BA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79630518081:android:58c8e93b5d25a06c",
+        "android_client_info": {
+          "package_name": "com.simprints.datatestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79630518081-le1grgigbini6u531k3l91kmsokm7723.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "79630518081-cqf9255p9u0toj200vb1r4ive5ngvedl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simprints.datatestapp",
+            "certificate_hash": "2c6930cedf081154a61323c0310e9a08967b234b"
+          }
+        },
+        {
+          "client_id": "79630518081-25ob6nh4d617ej32mjnaov3iuhdtp49n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9FACBcpmhWkLZ5OdWFjFX0lbsJwW43BA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79630518081-le1grgigbini6u531k3l91kmsokm7723.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79630518081:android:38d4bcd42a5c23b0",
+        "android_client_info": {
+          "package_name": "com.simprints.id.development"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79630518081-le1grgigbini6u531k3l91kmsokm7723.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "79630518081-25ob6nh4d617ej32mjnaov3iuhdtp49n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9FACBcpmhWkLZ5OdWFjFX0lbsJwW43BA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79630518081:android:f69bc726cb2bfd9e",
+        "android_client_info": {
+          "package_name": "com.simprints.datatestapp.development"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79630518081-le1grgigbini6u531k3l91kmsokm7723.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "79630518081-25ob6nh4d617ej32mjnaov3iuhdtp49n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9FACBcpmhWkLZ5OdWFjFX0lbsJwW43BA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
