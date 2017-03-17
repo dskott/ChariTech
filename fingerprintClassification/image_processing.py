@@ -28,7 +28,7 @@ def get_images(directory, extensions):
             supervising_list.append(j)
         j+=1
             
-    for image in img_list:
+    for image in img_list[0:100]:
         img = color.rgb2gray(image)
         img_list_2.append(img.flatten())
         
