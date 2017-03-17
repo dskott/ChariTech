@@ -19,3 +19,4 @@ img_list_2, supervising_list = get_images(directory,extensions)
 x_redu = dimension_reduction (img_list_2,2)
 
 analysis(x_redu, supervising_list)
+

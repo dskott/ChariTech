@@ -30,12 +30,12 @@ def get_images(directory, extensions):
             
     for image in img_list:
         img = color.rgb2gray(image)
-        img_list_2.append(img.flatten()[:200])
+        img_list_2.append(img.flatten())
         
     img_list_2 = numpy.array(img_list_2)
     
         
-    return img_list_2, supervising_list[:200]
+    return img_list_2, supervising_list
 
 #answer = get_images(directory, extensions)
 #print(answer[0][1][200])
